@@ -60,7 +60,7 @@ html {
 body {
   min-width: 320px;
   min-height: 100vh;
-  font-family: Inter, sans-serif;
+  font-family: 'Inter', 'PT Sans',  sans-serif;
   background: radial-gradient(138.89% 303.35% at 140% 66.21%, #1F1E33 0%, #2A224F 87.18%);
   color: #fff;
 }
